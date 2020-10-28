@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="./banner.png" style="width: 100%;" alt="fields of interest" />
+
 <!--
 **JeremyGillard/JeremyGillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
