@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Let's create something together! Feel free to contact me
+### Let's create something together! Feel free to contact me.
 
 <!-- <img src="./banner.png" style="width: 100%;" alt="fields of interest" /> -->
 
