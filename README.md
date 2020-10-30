@@ -7,7 +7,7 @@
 
 <img src="./banner.png" alt="fields of interest" />
 
-I'm currently training to become qualified and comfortable in the first domain: web development.
+# I'm currently training to become qualified and comfortable in the first domain: web development.
 
 <!--
 **JeremyGillard/JeremyGillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
