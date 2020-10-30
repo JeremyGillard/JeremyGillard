@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 ### Let's create something together! Feel free to contact me.
 
-<!-- <img src="./banner.png" style="width: 100%;" alt="fields of interest" /> -->
+<img src="./banner.png" style="width: 100%;" alt="fields of interest" />
 
 <!--
 **JeremyGillard/JeremyGillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
