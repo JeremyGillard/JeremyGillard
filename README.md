@@ -5,7 +5,7 @@
 
 ## Fields of interest
 
-<img src="./banner.png" style="width: 75%;" alt="fields of interest" />
+<img src="./banner.png" alt="fields of interest" />
 
 <!--
 **JeremyGillard/JeremyGillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
