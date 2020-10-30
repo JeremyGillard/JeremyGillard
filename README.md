@@ -3,7 +3,7 @@
 ### Let's create something together! Feel free to contact me.
 -->
 
-### Fields of interest
+## Fields of interest
 
 <img src="./banner.png" style="width: 75%; margin: 0 auto;" alt="fields of interest" />
 
