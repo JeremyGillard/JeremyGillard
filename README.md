@@ -7,6 +7,8 @@
 
 <img src="./banner.png" alt="fields of interest" />
 
+I'm currently training to become comfortable in the first domain: web development.
+
 <!--
 **JeremyGillard/JeremyGillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
